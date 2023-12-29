@@ -1,0 +1,4 @@
+﻿  project.c
+C:\Users\82108\source\repos\PLabProject\PLabProject\project.c(343,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\82108\source\repos\PLabProject\PLabProject\project.c(2267,19): warning C4013: 'time'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  PLabProject.vcxproj -> C:\Users\82108\source\repos\PLabProject\x64\Debug\PLabProject.exe
